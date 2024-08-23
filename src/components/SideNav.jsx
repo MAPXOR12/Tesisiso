@@ -12,12 +12,7 @@ function SideNav({selectedIndex}) {
             id:'2' ,
             name: 'Background',
             icon:ImageIcon ,
-        },
-        {
-            id:'3' ,
-            name: 'Upgrade',
-            icon:Shield ,
-        },
+        }
     ]
 
 
